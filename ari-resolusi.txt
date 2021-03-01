@@ -1,0 +1,9 @@
+Resolusi saya di tahun 2021
+1. Konsisten mempelajari :
+  a. Node js
+  b. React js
+  c. github
+  d. mongodb
+  e. react native 
+  f. Laravel 
+  
